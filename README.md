@@ -1,13 +1,13 @@
 # react-library-generator
 
-> React library generator
-
-[![NPM](https://img.shields.io/npm/v/react-library-generator.svg)](https://www.npmjs.com/package/react-library-generator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
 ## Install
 
 ```bash
 npm install --save react-library-generator
+```
+or
+```bash
+yarn add react-library-generator
 ```
 
 ## Usage
